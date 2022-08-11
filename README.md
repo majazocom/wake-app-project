@@ -18,6 +18,3 @@ Er kontinuerliga teamkommunikation väljer ni själva i gruppen ( slack, discord
 
 ## Tekniska krav
 Det skall gå att navigera runt i applikationen i Figma.
-
-
-**Glöm inte att det är processen som står i centrum för detta projekt.**
